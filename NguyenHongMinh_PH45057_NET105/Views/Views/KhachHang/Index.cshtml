@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Views.Models.KhachHang>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Yuoi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DiaChi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sodienthoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LoaiKhachHang)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Yuoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.sodienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LoaiKhachHang)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Update", new { id=item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+                    <form method="post" asp-action="Delete" asp-route-id="@item.ID">
+                        <button type="submit">Delete</button>
+                    </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

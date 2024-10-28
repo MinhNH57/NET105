@@ -1,0 +1,38 @@
+﻿@model List<SinhVien>
+
+<h2>Danh sách Sinh Viên</h2>
+
+<div>
+    <a class="btn btn-primary" asp-action="Create" asp-controller="SinhVien">Create new</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Họ Tên</th>
+            <th>Tuổi</th>
+            <th>Chuyên nghành</th>
+            <th>Mã lớp</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sinhVien in Model)
+        {
+            <tr>
+                <td>@sinhVien.Id</td>
+                <td>@sinhVien.Name</td>
+                <td>@sinhVien.Age</td>
+                <td>@sinhVien.Major</td>
+                <td>@sinhVien.ClassId</td>
+                <td>
+                    <form method="post" asp-action="Delete" asp-route-id="@sinhVien.Id" onsubmit="return confirm('Bạn có chắc chắn muốn xóa không?');">
+                        <button type="submit">Xóa</button>
+                    </form>
+                    <a class="btn btn-warning" asp-action="Edit" asp-controller="SinhVien" asp-route-id="@sinhVien.Id">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

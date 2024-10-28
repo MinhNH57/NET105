@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnTapAPI", "OnTapAPI\OnTapAPI.csproj", "{3E0800BE-7F58-47A6-8F57-366FADCBCF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context", "Context\Context.csproj", "{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewAPI", "ViewAPI\ViewAPI.csproj", "{BE9FCA9B-6EED-41DA-9463-F47CEC456353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0800BE-7F58-47A6-8F57-366FADCBCF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0800BE-7F58-47A6-8F57-366FADCBCF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0800BE-7F58-47A6-8F57-366FADCBCF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0800BE-7F58-47A6-8F57-366FADCBCF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9FCA9B-6EED-41DA-9463-F47CEC456353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9FCA9B-6EED-41DA-9463-F47CEC456353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9FCA9B-6EED-41DA-9463-F47CEC456353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9FCA9B-6EED-41DA-9463-F47CEC456353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDAD86A0-1C17-4322-9C44-D5CE81D7D8C3}
+	EndGlobalSection
+EndGlobal

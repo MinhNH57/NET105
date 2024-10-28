@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sách Đồng Hồ</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Danh Sách Đồng Hồ</h2>
+    <button class="btn btn-primary mb-3" data-bs-toggle="modal" data-bs-target="#watchModal" onclick="openModal()">Thêm Đồng Hồ</button>
+    
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Tên</th>
+                <th>Năm Ra Đời</th>
+                <th>Mô Tả</th>
+                <th>Loại Máy</th>
+                <th>Mặt Kính</th>
+                <th>Hành Động</th>
+            </tr>
+        </thead>
+        <tbody id="watchList">
+            <!-- Đồng hồ sẽ được thêm vào đây -->
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="watchModal" tabindex="-1" aria-labelledby="watchModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="watchModalLabel">Thêm Đồng Hồ</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="watchForm">
+                    <input type="hidden" id="watchID">
+                    <div class="mb-3">
+                        <label for="watchName" class="form-label">Tên Đồng Hồ</label>
+                        <input type="text" class="form-control" id="watchName" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="watchYear" class="form-label">Năm Ra Đời</label>
+                        <input type="number" class="form-control" id="watchYear" required>
+                    </div>
+                    <div class="mb-3">
+                        <label for="watchDescription" class="form-label">Mô Tả</label>
+                        <textarea class="form-control" id="watchDescription"></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="watchLoaiMay" class="form-label">Loại Máy</label>
+                        <input type="text" class="form-control" id="watchLoaiMay">
+                    </div>
+                    <div class="mb-3">
+                        <label for="watchMatKinh" class="form-label">Mặt Kính</label>
+                        <input type="text" class="form-control" id="watchMatKinh">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Lưu</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
+<script>
+    let watches = [];
+
+    function renderWatches() {
+        const watchList = $('#watchList');
+        watchList.empty();
+        watches.forEach((watch, index) => {
+            watchList.append(`
+                <tr>
+                    <td>${watch.id}</td>
+                    <td>${watch.name}</td>
+                    <td>${watch.namRaDoi}</td>
+                    <td>${watch.moTa}</td>
+                    <td>${watch.loaiMayID}</td>
+                    <td>${watch.matKinhID}</td>
+                    <td>
+                        <button class="btn btn-warning btn-sm editBtn" data-id = "${watch.id}">Sửa</button>
+                        <button class="btn btn-danger btn-sm deleteBtn" data-id = "${watch.id}" >Xóa</button>
+                    </td>
+                </tr>
+            `);
+        });
+    }
+
+    function getData() {
+        var url = "https://localhost:7023/api/dongho"; // URL API lấy danh sách đồng hồ
+        fetch(url, {
+            method: "GET",
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        }).then(response => response.json()) // Chuyển đổi phản hồi thành JSON
+            .then(data => {
+                watches = data; // Cập nhật danh sách đồng hồ
+                console.log(data);
+                renderWatches(); // Gọi hàm để hiển thị danh sách đồng hồ
+            })
+            .catch((error) => {
+                console.error('Error:', error); // Xử lý lỗi
+            });
+    }
+
+    function openModal() {
+        $('#watchForm')[0].reset();
+        $('#watchID').val('');
+        $('#watchModalLabel').text('Thêm Đồng Hồ');
+    }
+
+    $('#watchForm').submit(function (e) {
+        e.preventDefault();
+        const id = $('#watchID').val();
+        const name = $('#watchName').val();
+        const namRaDoi = $('#watchYear').val();
+        const moTa = $('#watchDescription').val();
+        const watch = {
+            name: name,
+            namRaDoi: parseInt(namRaDoi, 10),
+            moTa: moTa,
+            loaiMayID: $('#watchLoaiMay').val(),
+            matKinhID: $('#watchMatKinh').val()
+        };
+        console.log(watch.id);
+        console.log(watch);
+
+
+        if (id) {
+
+
+            var url = `https://localhost:7023/${id}?ID=${encodeURIComponent(id)}&Name=${encodeURIComponent(name)}&NamRaDoi=${parseInt(namRaDoi)}&MoTa=${moTa}`
+            fetch(url, {
+                method: "PUT",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(watch)
+            }).then(response => response.json()) // Chuyển đổi phản hồi thành JSON
+                .then(data => {
+                    const index = watches.findIndex(x => x.id == id);
+                    watches[index] = watch;
+                    console.log(watch[index]);
+                    $('#watchModal').modal('hide');
+                    getData();
+                })
+                .catch((error) => {
+                    renderWatches();
+                    $('#watchModal').modal('hide');
+                });
+
+        } else {
+
+
+            var url = `https://localhost:7023/Create?Name=${encodeURIComponent(name)}&NamRaDoi=${parseInt(namRaDoi)}&MoTa=${moTa}`
+            fetch(url, {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(watch)
+            }).then(response => response.json()) // Chuyển đổi phản hồi thành JSON
+                .then(data => {
+                    watches.push(watch);
+                    $('#watchModal').modal('hide');
+                    getData();
+                })
+                .catch((error) => {
+                    console.error('Error:', error); // Xử lý lỗi
+                });
+
+           /* watches.push(watch);*/
+        }
+
+        renderWatches();
+        $('#watchModal').modal('hide');
+    });
+
+
+
+    $(document).on('click', '.editBtn', function () {
+        const id = $(this).data('id');
+
+        const watch = watches.find(x => x.id == id);
+
+        $('#watchID').val(watch.id);
+        $('#watchName').val(watch.name);
+        $('#watchYear').val(watch.namRaDoi);
+        $('#watchDescription').val(watch.moTa);
+        $('#watchLoaiMay').val(watch.loaiMayID);
+        $('#watchMatKinh').val(watch.matKinhID);
+        $('#watchModalLabel').text('Sửa Đồng Hồ');
+        $('#watchModal').modal('show');
+    })
+
+    $(document).on('click', '.deleteBtn', function () {
+        if (confirm("Ban co muon xoa khong ?")) {
+            const id = $(this).data('id');
+
+            var url = "https://localhost:7023/" + id;
+            fetch(url, {
+                method: "DELETE",
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }).then(response => response.json()) 
+                .then(data1 => {
+                    watches = watches.filter(x => x.id != id);
+                })
+                .catch((error) => {
+                    console.error('Error:', error); 
+                });
+
+            reloadPage();
+        }
+    });
+
+    $(document).ready(function () {
+        getData();
+    });
+
+    function reloadPage() {
+        location.reload();
+    }
+
+</script>
+</body>
+</html>

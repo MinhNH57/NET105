@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\viewapi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|solutionrelative:viewapi\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\viewapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|solutionrelative:viewapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\viewapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE9FCA9B-6EED-41DA-9463-F47CEC456353}|ViewAPI\\ViewAPI.csproj|solutionrelative:viewapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}|Context\\Context.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\context\\mydatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}|Context\\Context.csproj|solutionrelative:context\\mydatadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}|Context\\Context.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\context\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108E4A31-267A-4C62-A7B3-AB0E1DDD2DBE}|Context\\Context.csproj|solutionrelative:context\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\ontapapi\\ontapapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|solutionrelative:ontapapi\\ontapapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\ontapapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|solutionrelative:ontapapi\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\ontap\\ontapapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0800BE-7F58-47A6-8F57-366FADCBCF04}|OnTapAPI\\OnTapAPI.csproj|solutionrelative:ontapapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewAPI\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "ViewAPI\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T01:11:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "ViewAPI\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "ViewAPI\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:11:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\ViewAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:11:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\Context\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Context\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\Context\\NhanVien.cs",
+              "RelativeToolTip": "Context\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:07:36.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OnTapAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\OnTapAPI.csproj",
+              "RelativeDocumentMoniker": "OnTapAPI\\OnTapAPI.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\OnTapAPI.csproj",
+              "RelativeToolTip": "OnTapAPI\\OnTapAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T01:07:35.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDataDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\Context\\MyDataDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\MyDataDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\Context\\MyDataDbContext.cs",
+              "RelativeToolTip": "Context\\MyDataDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:39:43.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OnTapAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\Program.cs",
+              "RelativeToolTip": "OnTapAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:39:40.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "OnTapAPI\\Controllers\\NhanVienController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\OnTap\\OnTapAPI\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "OnTapAPI\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAmwD0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:38:22.978Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

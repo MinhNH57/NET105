@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\calllab04\\calllab04\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|solutionrelative:calllab04\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\calllab04\\calllab04\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|solutionrelative:calllab04\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\calllab04\\calllab04\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|solutionrelative:calllab04\\views\\lophoc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\calllab04\\calllab04\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|solutionrelative:calllab04\\views\\lophoc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\calllab04\\calllab04\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{845AFC78-8A84-4328-AC5D-7FA9DBCE5F89}|CallLab04\\CallLab04.csproj|solutionrelative:calllab04\\views\\lophoc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Index.cshtml",
+              "RelativeDocumentMoniker": "CallLab04\\Views\\LopHoc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Index.cshtml",
+              "RelativeToolTip": "CallLab04\\Views\\LopHoc\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:16:40.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CallLab04\\Views\\LopHoc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Edit.cshtml",
+              "RelativeToolTip": "CallLab04\\Views\\LopHoc\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:16:17.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Create.cshtml",
+              "RelativeDocumentMoniker": "CallLab04\\Views\\LopHoc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Views\\LopHoc\\Create.cshtml",
+              "RelativeToolTip": "CallLab04\\Views\\LopHoc\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T16:09:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LopHocController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Controllers\\LopHocController.cs",
+              "RelativeDocumentMoniker": "CallLab04\\Controllers\\LopHocController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Controllers\\LopHocController.cs",
+              "RelativeToolTip": "CallLab04\\Controllers\\LopHocController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:22:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "CallLab04\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\CallLab04\\CallLab04\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "CallLab04\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:12:41.163Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

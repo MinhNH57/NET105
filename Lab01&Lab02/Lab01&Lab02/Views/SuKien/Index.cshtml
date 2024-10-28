@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Lab01_Lab02.ModelView.SuKienVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Location
+            </th>
+            <th>Số lượng vé</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    @item.Event.Id
+            </td>
+            <td>
+                @item.Event.Name
+            </td>
+            <td>
+                @item.Event.Date
+            </td>
+            <td>
+                    @item.Event.Location
+            </td>
+
+            <td>
+                    @item.TicketCount
+            </td>
+            <td class="d-flex justify-content-center">
+                @Html.ActionLink("Edit", "Edit", new { id=item.Event.Id }) | 
+                @Html.ActionLink("Details", "Details", new { id=item.Event.Id}) |
+                <form asp-action="Delete" asp-route-id = "@item.Event.Id" asp-controller="SuKien">
+                    <button class="btn btn-danger" type="submit">Delete</button>
+                </form>
+                 |
+                    <form asp-action="Delete1" asp-route-id="@item.Event.Id" asp-controller="SuKien">
+                        <button class="btn btn-warning" type="submit">Delete</button>
+                    </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <script>
+        alert('Không thể xóa được !!!');
+    </script>
+}

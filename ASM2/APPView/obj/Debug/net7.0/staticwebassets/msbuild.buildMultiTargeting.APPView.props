@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APPView.props" />
+</Project>

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\services\\khachhangser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\services\\khachhangser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\repositories\\khachhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\repositories\\khachhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\repositories\\isachrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\repositories\\isachrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\repositories\\ikhachhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\repositories\\ikhachhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\repositories\\donhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\repositories\\donhangrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\model\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|c:\\users\\dell\\desktop\\net105_c#5\\kiemtra\\kiemtra\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930825E2-236C-45CE-A2F6-E11EC06FF4CA}|KIemTra\\KIemTra.csproj|solutionrelative:kiemtra\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISachRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\ISachRepo.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Repositories\\ISachRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\ISachRepo.cs",
+              "RelativeToolTip": "KIemTra\\Repositories\\ISachRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:16:15.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KhachHangSer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Services\\KhachHangSer.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Services\\KhachHangSer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Services\\KhachHangSer.cs",
+              "RelativeToolTip": "KIemTra\\Services\\KhachHangSer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:15:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Controllers\\KhachHangController.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Controllers\\KhachHangController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Controllers\\KhachHangController.cs",
+              "RelativeToolTip": "KIemTra\\Controllers\\KhachHangController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:04:32.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHangRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\KhachHangRepo.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Repositories\\KhachHangRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\KhachHangRepo.cs",
+              "RelativeToolTip": "KIemTra\\Repositories\\KhachHangRepo.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:58:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKhachHangRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\IKhachHangRepo.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Repositories\\IKhachHangRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\IKhachHangRepo.cs",
+              "RelativeToolTip": "KIemTra\\Repositories\\IKhachHangRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:57:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Model\\DonHang.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Model\\DonHang.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Model\\DonHang.cs",
+              "RelativeToolTip": "KIemTra\\Model\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:20:10.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonHangRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\DonHangRepo.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Repositories\\DonHangRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Repositories\\DonHangRepo.cs",
+              "RelativeToolTip": "KIemTra\\Repositories\\DonHangRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:28:51.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "KIemTra\\Controllers\\DonHangController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\KIemTra\\KIemTra\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "KIemTra\\Controllers\\DonHangController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:21:52.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

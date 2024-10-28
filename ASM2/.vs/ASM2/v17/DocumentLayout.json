@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appview\\controllers\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|solutionrelative:appview\\controllers\\callcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE4EB23-4934-47D2-926A-17EEC6597B47}|APPAPI\\APPAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DE4EB23-4934-47D2-926A-17EEC6597B47}|APPAPI\\APPAPI.csproj|solutionrelative:appapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE4EB23-4934-47D2-926A-17EEC6597B47}|APPAPI\\APPAPI.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DE4EB23-4934-47D2-926A-17EEC6597B47}|APPAPI\\APPAPI.csproj|solutionrelative:appapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|solutionrelative:appview\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appview\\views\\call\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8BED047-1B09-4EC1-A504-8E165530EAA8}|APPView\\APPView.csproj|solutionrelative:appview\\views\\call\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E3F94D-3473-42B8-8951-3D0868747DCC}|APPDATA\\APPDATA.csproj|c:\\users\\dell\\desktop\\net105_c#5\\asm2\\appdata\\thucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E3F94D-3473-42B8-8951-3D0868747DCC}|APPDATA\\APPDATA.csproj|solutionrelative:appdata\\thucan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\appsettings.json",
+              "RelativeDocumentMoniker": "APPView\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\appsettings.json",
+              "RelativeToolTip": "APPView\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T12:57:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "APPAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPAPI\\appsettings.json",
+              "RelativeToolTip": "APPAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T06:19:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPAPI\\Program.cs",
+              "RelativeDocumentMoniker": "APPAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPAPI\\Program.cs",
+              "RelativeToolTip": "APPAPI\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:10:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThucAn.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPDATA\\ThucAn.cs",
+              "RelativeDocumentMoniker": "APPDATA\\ThucAn.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPDATA\\ThucAn.cs",
+              "RelativeToolTip": "APPDATA\\ThucAn.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:51:09.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\Views\\Call\\Index.cshtml",
+              "RelativeDocumentMoniker": "APPView\\Views\\Call\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\Views\\Call\\Index.cshtml",
+              "RelativeToolTip": "APPView\\Views\\Call\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:44:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CallController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\Controllers\\CallController.cs",
+              "RelativeDocumentMoniker": "APPView\\Controllers\\CallController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\ASM2\\APPView\\Controllers\\CallController.cs",
+              "RelativeToolTip": "APPView\\Controllers\\CallController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:39:47.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

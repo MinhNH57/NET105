@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CallLab04.props" />
+</Project>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\lab04\\lab04\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|solutionrelative:lab04\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\lab04\\lab04\\repositories\\lophocrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|solutionrelative:lab04\\repositories\\lophocrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\lab04\\lab04\\repositories\\ilophocrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|solutionrelative:lab04\\repositories\\ilophocrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\lab04\\lab04\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|solutionrelative:lab04\\repositories\\istudentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|c:\\users\\dell\\desktop\\net105_c#5\\lab04\\lab04\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB088FC8-0A2B-4CFF-872E-C307A0A7D778}|Lab04\\Lab04.csproj|solutionrelative:lab04\\controllers\\lophoccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LopHocRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\LopHocRepo.cs",
+              "RelativeDocumentMoniker": "Lab04\\Repositories\\LopHocRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\LopHocRepo.cs",
+              "RelativeToolTip": "Lab04\\Repositories\\LopHocRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:46:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\IStudentRepo.cs",
+              "RelativeDocumentMoniker": "Lab04\\Repositories\\IStudentRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\IStudentRepo.cs",
+              "RelativeToolTip": "Lab04\\Repositories\\IStudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:46:19.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILopHocRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\ILopHocRepo.cs",
+              "RelativeDocumentMoniker": "Lab04\\Repositories\\ILopHocRepo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Repositories\\ILopHocRepo.cs",
+              "RelativeToolTip": "Lab04\\Repositories\\ILopHocRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:46:10.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "Lab04\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "Lab04\\Controllers\\SinhVienController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:23:39.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LopHocController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Controllers\\LopHocController.cs",
+              "RelativeDocumentMoniker": "Lab04\\Controllers\\LopHocController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\NET105_C#5\\Lab04\\Lab04\\Controllers\\LopHocController.cs",
+              "RelativeToolTip": "Lab04\\Controllers\\LopHocController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:29:07.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
